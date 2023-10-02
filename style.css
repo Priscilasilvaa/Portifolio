@@ -40,12 +40,11 @@ p{
  }
  
 .left-column{
-   width: 48%;
+   width: 50%;
    height: 100%;
    flex-direction: column;
    margin: 25px;
 }
-
 
 .imagens{
     padding-top:80px ;
