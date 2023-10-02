@@ -10,7 +10,8 @@ html{
     height: 500px;
 }
 .parallax{
-    width: 100%;
+    width: 1400px;
+    background-image: url(img/foto2.png);
     background-repeat:repeat-x;
 }
 h1{
@@ -69,12 +70,12 @@ p{
 
     }
     .parallax{
-        width: auto;
-        background-repeat:repeat-x;
+        width: 750px;
+        background-repeat:repeat;
     }
     .foto1{
         width: auto;
-        height: 400px;
+        height: 100px;
     }
   }
   
