@@ -70,12 +70,12 @@ p{
 
     }
     .parallax{
-        width: 750px;
+        width: 767px;
         background-repeat:repeat;
     }
     .foto1{
-        width: auto;
-        height: 100px;
+        width: 300px;
+        height: auto;
     }
   }
   
